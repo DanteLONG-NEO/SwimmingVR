@@ -28,7 +28,3 @@ dependencies:
   - pyyaml
   - joblib
   - tqdm
-
-  - pip:
-      - scripts==0.1.0
-      - smctrl==0.1.0
