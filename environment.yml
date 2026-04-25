@@ -1,0 +1,34 @@
+name: swim-vr
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+
+  - ipykernel
+  - ipython
+  - jupyter_client
+  - jupyter_core
+
+  - pytorch
+  - pytorch-cuda=12.1
+
+  - pyyaml
+  - joblib
+  - tqdm
+
+  - pip:
+      - scripts==0.1.0
+      - smctrl==0.1.0
