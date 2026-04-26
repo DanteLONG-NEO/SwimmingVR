@@ -1,2 +1,0 @@
-version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
-3,iPhone 16,1776984421051,2026-04-23_22-47-01,America/New_York,ios,1.57,80ea357f-3b5d-428a-b3a0-0da74b60edac,Heart Rate|Wrist Motion|Watch Location|Annotation,10|10|10|,false,26.3.1
