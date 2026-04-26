@@ -1,2 +1,0 @@
-version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
-3,iPhone 11,1776984419833,2026-04-23_22-46-59,America/New_York,ios,1.56,974cd75b-cac9-47bc-b0da-3357b618aedb,Heart Rate|Wrist Motion|Watch Location|Annotation,10|10|10|,false,26.4.1

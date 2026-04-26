@@ -1,2 +1,0 @@
-version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
-3,iPhone 13 mini,1776284933954,2026-04-15_20-28-53,America/New_York,ios,1.56,933b1830-aaec-4714-8bef-a25959d1860e,Heart Rate|Wrist Motion|Watch Location|Annotation,10|10|10|,false,18.5
